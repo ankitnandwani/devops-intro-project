@@ -1,0 +1,12 @@
+package com.ankitnandwani.cucumber;
+
+import cucumber.api.junit.Cucumber;
+import org.junit.runner.RunWith;
+
+/**
+ * Created by mac on 25/05/17.
+ */
+
+@RunWith(Cucumber.class)
+public class RunCukesTest {
+}
